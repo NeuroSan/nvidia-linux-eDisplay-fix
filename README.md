@@ -1,6 +1,6 @@
 # Let's make your external display work!
 
-_**Please confirm that the following conditions apply to you:**_
+### _Please confirm that the following conditions apply to you:_
 * you have a _**laptop**_ with _**direct**_ connection of HDMI or DP to Nvidia discrete GPU
 * your laptop currently running _**Linux**_
 * your integrated graphics processor is an _**AMD Radeon**_
