@@ -21,7 +21,7 @@ _**Please confirm that the following conditions apply to you:**_
 
 4. Remove the cloned repository directory:
 
-        rm -rv nvidia-linux-eDisplay-fix
+        rm -rvf nvidia-linux-eDisplay-fix
 
 5. Reboot:
 
